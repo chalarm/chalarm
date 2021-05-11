@@ -13,8 +13,8 @@ I've saw pretty much every operating system from:
     Solaris
     Windows 95,NT4,98,Millennium Edition,2000,2003,2008,2016 (2012 I've skipped for some reason - I'm not the biggest Windows fan)
 
-Worked as a system engineer was more fascinated by the networking side of life.
+Worked as a system engineer was more fascinated by the networking side of life. So became a networking specialist.
 
-Brocade, Cisco, Extreme, Juniper, Nokia they all have no secrets for me and they all have bugs. I've been operating at Expert level within (Large) Enterprise & Service Provider networks for 15+ years (protocols like BGP, OSPF, IS-IS, MPLS, VPLS). 
+Cisco, Cumulus, Extreme, Huawei, Juniper, Nokia they all have no secrets for me and they all have bugs. I've been operating at Expert level within (Large) Enterprise & Service Provider networks for 15+ years (protocols like BGP, OSPF, IS-IS, MPLS (incl Segment-Routing), VPLS). 
 
 Now ever since Corona happened I'm pretty much isolated in Thailand.
