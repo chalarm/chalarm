@@ -6,9 +6,9 @@ Here I've started basic programming and it wasn't long after this that i got my 
 
 I've saw pretty much every operating system from, I'm most comfortable on:
 
-    BSD (Dragonfly,Free,Net,Open)
+    BSD (Open or Free)
     or
-    Linux (various distro types)
+    Linux (Arch, Debian/Ubuntu)
     
 Worked as a system engineer was more fascinated by the networking side of life. So became a networking specialist. 
 
