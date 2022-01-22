@@ -12,4 +12,4 @@ I've saw pretty much every operating system from, I'm most comfortable on:
     
 Worked as a system engineer was more fascinated by the networking side of life. So became a networking specialist: Cisco, Cumulus, Extreme, Huawei, Juniper, Nokia they all have no secrets for me and they all have bugs. I've been operating at Expert level within (Large) Enterprise & Service Provider networks for 15+ years (protocols like BGP, OSPF, IS-IS, MPLS (incl Segment-Routing), VPLS). 
 
-I was very interested in automation from the early days (on a commadore 64) writing in Basic my own games as a young male, these days I help people with their Automation from within my employment through Nokia.
+I was very interested in automation from the early days (on a commadore 64) writing in Basic my own games as a young male, these days I help people with their Automation.
