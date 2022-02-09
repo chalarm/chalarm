@@ -8,7 +8,7 @@ I've saw pretty much every operating system from, I'm most comfortable on:
 
     BSD (Open or Free)
     or
-    Linux (Arch, Debian or Ubuntu)
+    Linux (Arch, Alpine, Debian or Ubuntu)
     
 Worked as a system engineer was more fascinated by the networking side of life. So became a networking specialist: Cisco, Cumulus, Extreme, Huawei, Juniper, Nokia they all have no secrets for me and they all have bugs. I've been operating at Expert level within (Large) Enterprise & Service Provider networks for 15+ years (protocols like BGP, OSPF, IS-IS, MPLS (incl Segment-Routing), VPLS). 
 
